@@ -1,7 +1,14 @@
 # scan-ip-UP
 ## how to use ? / ? كيف تستخدم 
 ```sh
-python3 scanip.py 
+chmod +x scanip.py
+```
+```sh
+./scanip.py 192.168.1
+```
+or
+```sh
+python3 scanip.py 192.168.1
 ```
 ## Example / مثال
 ```sh
@@ -19,3 +26,4 @@ ibrahim@chc:~$ python3 scanip.py 192.168.1
 192.168.1.10 the Host is DOWN
 192.168.1.11 the Host is DOWN
 ```
+# Thanks شكرا
