@@ -26,4 +26,3 @@ ibrahim@chc:~$ python3 scanip.py 192.168.1
 192.168.1.10 the Host is DOWN
 192.168.1.11 the Host is DOWN
 ```
-# Thanks شكرا
