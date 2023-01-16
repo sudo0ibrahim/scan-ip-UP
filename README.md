@@ -26,7 +26,7 @@ ibrahim@chc:~$ python3 scanip.py 192.168.1
 192.168.1.10 the Host is DOWN
 192.168.1.11 the Host is DOWN
 ```
-### Why only 255 ? / ? لماذا فقط 255
+### Why only to 255 ? / ? لماذا فقط إلى 255
 
 1 Byte = 8 bit
 
