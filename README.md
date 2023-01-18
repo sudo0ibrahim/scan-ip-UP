@@ -11,7 +11,7 @@ or
 python3 scanip.py 192.168.1
 ```
 ## Example / مثال
-```sh
+```bash
 ibrahim@chc:~$ python3 scanip.py 192.168.1
 192.168.1.0 the Host is DOWN
 192.168.1.1 the Host is UP
